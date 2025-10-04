@@ -30,8 +30,7 @@ The last element becomes the first one.
 
 ---
 ## Usage 💡
-
-To run the `push_swap` program, use the following syntax:
+Run `make` first, then run the `push_swap` program using the following syntax:
 
 ```bash
 ./push_swap [list of integers]
